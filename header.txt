@@ -1,2 +1,9 @@
-Some text
+<<<<<<< HEAD
+Some text 
+changes from main
 change from <first>
+=======
+Some text for header
+
+
+>>>>>>> main
